@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV](https://github.com/AsimIkram1/asimikram1.github.io/tree/master/files/Asim_Ikram_CV.pdf)
+<a href="https://github.com/AsimIkram1/asimikram1.github.io/tree/master/files/Asim_Ikram_CV.pdf" download>Download CV</a>
 
 Publications
 ======
