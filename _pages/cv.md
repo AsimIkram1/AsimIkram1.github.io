@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download CV](https://github.com/AsimIkram1/asimikram1.github.io/files/Asim_Ikram_CV.pdf)
+
 Publications
 ======
   <ul>{% for post in site.publications %}
