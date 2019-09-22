@@ -9,6 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 Education
 ======
 * ## Master's in Computer Science
@@ -67,8 +73,12 @@ Skills
 * Latex
 * Linux
 
-Publications
+Awards
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Gold Medalist in MS (CS)
+* Multiple time Dean's list award holder
+
+Languages
+======
+* **English** - Excellent (IELTS Score: 8.0/9.0)
+* **Urdu** - Native Language
