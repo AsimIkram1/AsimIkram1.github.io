@@ -40,6 +40,16 @@ Work experience
   * **July 2018 - March 2019**
   * **Virtual BNG**: My responsibilities included the implementation of the PPPoE and LCP protocols. A secondary responsibility also included the testing of the protocols using the rp-pppoe client
   * **Virtual BRAS**: Implementation of a central command line interface for multiple virtual machines. Testing of the interface was also under my responsibility. The project was funded by Ignite Technology Fund, one of the most prestigious funding organizations in Pakistan
+
+*  ## Teaching Assistant - Cyber Security
+  * **National University of Computer and Emerging Sciences, Islamabad**
+  * **August 2017 - December 2017**
+  * My responsibilities included assisting in labs and assignments
+
+*  ## Teaching Assistant - Concurrent and Distributed Systems
+  * **National University of Computer and Emerging Sciences, Islamabad**
+  * **January 2017 - June 2017**
+  * My responsibilities included assisting in labs, quizzes, assignment, and the course project
   
 Projects
 ======
