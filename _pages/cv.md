@@ -19,11 +19,11 @@ Publications
 
 Education
 ======
-* ## Master's in Computer Science
+* ## Master of Computer Science
   * National University of Computer and Emerging Sciences, Islamabad
   * CGPA: 3.77/4.00
   * 2016 - 2018
-* ## Bachelor's in Computer Science
+* ## Bachelor of Computer Science
   * National University of Computer and Emerging Sciences, Islamabad
   * CGPA: 3.30/4.00
   * 2012 - 2016
@@ -33,13 +33,17 @@ Work experience
 * ## Research Assistant
   * **National Center for Cyber Security**
   * **March 2019 - Present**
-  * My responsibilities included the creation of a forensic image as well as the extraction of forensic artifacts such as contacts, SMS, call logs, etc. Visualization of data in graphical and tabular formats on a web page was also under my responsibility. The project was funded by the Higher Education Commission of Pakistan
+  * Implemented a tool for the extraction of forensic artifacts (contacts, SMS, application data, etc.) from an Android smartphone. Implemented major parts of the back-end and all of the front-end part of the tool
+  * Performed analysis on the extracted artifacts
+  * Wrote automated test cases for the tool (using UI Vision RPA)
+  * Code integration, deployment, and documentation were also under my responsibility
+  * The project was funded by the Higher Education Commission of Pakistan
 
 *  ## Software Design Engineer
   * **XFlow Research Inc**
   * **July 2018 - March 2019**
-  * **Virtual BNG**: My responsibilities included the implementation of the PPPoE and LCP protocols. A secondary responsibility also included the testing of the protocols using the rp-pppoe client
-  * **Virtual BRAS**: Implementation of a central command line interface for multiple virtual machines. Testing of the interface was also under my responsibility. The project was funded by Ignite Technology Fund, one of the most prestigious funding organizations in Pakistan
+  * **Virtual BNG**: Succesfully implemented and tested parts of the PPPoE and LCP protocols. Tested the protocols using the rp-pppoe client
+  * **Virtual BRAS**: Implemented a central command line interface to handle multiple virtual machines. Testing of the interface was also under my responsibility. The project was funded by Ignite Technology Fund, one of the most prestigious funding organizations in Pakistan
 
 *  ## Teaching Assistant - Cyber Security
   * **National University of Computer and Emerging Sciences, Islamabad**
