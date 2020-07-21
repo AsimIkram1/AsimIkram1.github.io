@@ -42,7 +42,7 @@ Work experience
 
 * ## Research Assistant
   * **National Center for Cyber Security**
-  * **March 2019 - March 2019**
+  * **March 2019 - March 2020**
   * Research and development on mobile device forensics
   * Implemented a tool for the extraction of forensic artifacts (contacts, SMS, application data, etc.) from an Android smartphone
   * Implemented major parts of the back-end code using Python and Flask
