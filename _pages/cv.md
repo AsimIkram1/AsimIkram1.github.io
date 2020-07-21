@@ -30,14 +30,24 @@ Education
 
 Work experience
 ======
-* ## Research Assistant
+* ## Research Associate
   * **National Center for Cyber Security**
-  * **March 2019 - Present**
-  * Implemented a tool for the extraction of forensic artifacts (contacts, SMS, application data, etc.) from an Android smartphone. Implemented major parts of the back-end and all of the front-end part of the tool
+  * **March 2020 - Present**
+  * Research and development on mobile device forensics 
+  * Implemented asynhronous server side code using socket.io
   * Performed analysis on the extracted artifacts
   * Wrote automated test cases for the tool (using UI Vision RPA)
   * Code integration, deployment, and documentation were also under my responsibility
-  * The project was funded by the Higher Education Commission of Pakistan
+  * Coordinated tasks between team members
+
+* ## Research Assistant
+  * **National Center for Cyber Security**
+  * **March 2019 - Present**
+  * Research and development on mobile device forensics
+  * Implemented a tool for the extraction of forensic artifacts (contacts, SMS, application data, etc.) from an Android smartphone
+  * Implemented major parts of the back-end code using Python and Flask
+  * Implemented the front-end/user interface using Javascript and Jquery along with HTML and CSS
+  * Used REST APIs for communication between the back-end and front-end code and ORM for communication with the database
 
 *  ## Software Design Engineer
   * **XFlow Research Inc**
