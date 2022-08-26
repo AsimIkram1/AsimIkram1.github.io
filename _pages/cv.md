@@ -32,38 +32,29 @@ Work experience
 ======
 * ## Research Associate
   * **National Center for Cyber Security**
-  * **March 2020 - Present**
-  * Research and development on mobile device forensics 
-  * Implemented asynhronous server side code using socket.io
-  * Performed analysis on the extracted artifacts
-  * Wrote automated test cases for the tool (using UI Vision RPA)
-  * Code integration, deployment, and documentation were also under my responsibility
-  * Coordinated tasks between team members
+  * **March 2020 - July 2021**
+  * Designed and implemented code architecture
+  * Wrote asynchronous server side code using socket.io
+  * Performed analysis on the extracted data and added interactive plots to show the analysis
+  * Wrote automated test cases (using UI Vision RPA)
+  * Set up code integration and deployment. Wrote an installer package (.deb) for Linux based systems using debconf. Implemented a method that would only allow the code to run only when a provided USB flashdrive was inserted into the system.
+  * Coordinated tasks between group members using JIRA and set up integrations to the repository for easier task tracking, management and time-saving.
+  * Conducted technical interviews and helped new members get on-board with the project
 
 * ## Research Assistant
   * **National Center for Cyber Security**
   * **March 2019 - March 2020**
   * Research and development on mobile device forensics
-  * Implemented a tool for the extraction of forensic artifacts (contacts, SMS, application data, etc.) from an Android smartphone
-  * Implemented major parts of the back-end code using Python and Flask
-  * Implemented the front-end/user interface using Javascript and Jquery along with HTML and CSS
-  * Used REST APIs for communication between the back-end and front-end code and ORM for communication with the database
+  * Wrote code to get a physical copy (iso) of an Android device
+  * Wrote backend code to extract and parse data from an extracted image. Each part could work standalone and could easily be called using REST API calls
+  * Used ORM to communicate to data stored in databased
+  * Wrote front-end code to display extracted data
 
 *  ## Software Design Engineer
   * **XFlow Research Inc**
   * **July 2018 - March 2019**
-  * **Virtual BNG**: Succesfully implemented and tested parts of the PPPoE and LCP protocols. Tested the protocols using the rp-pppoe client
-  * **Virtual BRAS**: Implemented a central command line interface to handle multiple virtual machines. Testing of the interface was also under my responsibility. The project was funded by Ignite Technology Fund, one of the most prestigious funding organizations in Pakistan
-
-*  ## Teaching Assistant - Cyber Security
-  * **National University of Computer and Emerging Sciences, Islamabad**
-  * **August 2017 - December 2017**
-  * My responsibilities included assisting in labs and assignments
-
-*  ## Teaching Assistant - Concurrent and Distributed Systems
-  * **National University of Computer and Emerging Sciences, Islamabad**
-  * **January 2017 - June 2017**
-  * My responsibilities included assisting in labs, quizzes, assignment, and the course project
+  * **Virtual BNG**: Studied and implemented the PPPOE and LCP protocols. Also tested the protocols using the rp-pppoe client. Both versions of the code were written such that they could be easily extended.
+  * **Virtual BRAS**: Implemented a central command line interface to manage virtual machines. Wrote a deployment script to automatically install the tool on the required system. Helped the testing team by running the provided unit test cases as well as reporting and fixing bugs. 
   
 Projects
 ======
@@ -83,21 +74,14 @@ Projects
   * A tool that automatically converted code written in Java to C# and vice versa.
     * Tools and Technologies: Java, C#.
 
-Research Interests
-======
-* Cybersecurity
-* Network Security
-* Cloud Computing
-
 Skills
 ======
-* Machine Learning
-* Digital Forensics
-* Web Development
 * Python
-* Java
+* C\C++
+* Javascript/JQuery
 * Latex
 * Linux
+* Git
 
 Awards
 ======
