@@ -30,9 +30,16 @@ Education
 
 Work experience
 ======
+* ## Graduate Research Assistant
+  * **Washington University in Saint Louis, MO, USA**
+  * **Aug 2021 - Sep 2022**
+  * Implemented various strategies to improve the performance of the Cilk runtime written in C and C++
+  * Wrote code to enable fine-grained instrumentation in the runtime
+  * Wrote Python scripts to plot interactive graphs using the instrumentation data. Added the ability to select a subsection of the data to ease rendering of the graphs
+
 * ## Research Associate
   * **National Center for Cyber Security**
-  * **March 2020 - July 2021**
+  * **Mar 2020 - Jul 2021**
   * Designed and implemented code architecture
   * Wrote asynchronous server side code using socket.io
   * Performed analysis on the extracted data and added interactive plots to show the analysis
@@ -43,7 +50,7 @@ Work experience
 
 * ## Research Assistant
   * **National Center for Cyber Security**
-  * **March 2019 - March 2020**
+  * **Mar 2019 - Mar 2020**
   * Research and development on mobile device forensics
   * Wrote code to get a physical copy (iso) of an Android device
   * Wrote backend code to extract and parse data from an extracted image. Each part could work standalone and could easily be called using REST API calls
@@ -52,7 +59,7 @@ Work experience
 
 *  ## Software Design Engineer
   * **XFlow Research Inc**
-  * **July 2018 - March 2019**
+  * **Jul 2018 - Mar 2019**
   * **Virtual BNG**: Studied and implemented the PPPOE and LCP protocols. Also tested the protocols using the rp-pppoe client. Both versions of the code were written such that they could be easily extended.
   * **Virtual BRAS**: Implemented a central command line interface to manage virtual machines. Wrote a deployment script to automatically install the tool on the required system. Helped the testing team by running the provided unit test cases as well as reporting and fixing bugs. 
   
