@@ -11,23 +11,6 @@ redirect_from:
 
 <a href="https://github.com/AsimIkram1/asimikram1.github.io/raw/master/files/Asim_Ikram_CV.pdf" download>Download CV</a>
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Education
-======
-* ## Master of Computer Science
-  * National University of Computer and Emerging Sciences, Islamabad
-  * CGPA: 3.77/4.00
-  * 2016 - 2018
-* ## Bachelor of Computer Science
-  * National University of Computer and Emerging Sciences, Islamabad
-  * CGPA: 3.30/4.00
-  * 2012 - 2016
-
 Work experience
 ======
 * ## Graduate Research Assistant
@@ -62,6 +45,24 @@ Work experience
   * **Jul 2018 - Mar 2019**
   * **Virtual BNG**: Studied and implemented the PPPOE and LCP protocols. Also tested the protocols using the rp-pppoe client. Both versions of the code were written such that they could be easily extended.
   * **Virtual BRAS**: Implemented a central command line interface to manage virtual machines. Wrote a deployment script to automatically install the tool on the required system. Helped the testing team by running the provided unit test cases as well as reporting and fixing bugs. 
+
+Education
+======
+* ## Master of Computer Science
+  * National University of Computer and Emerging Sciences, Islamabad
+  * CGPA: 3.77/4.00
+  * 2016 - 2018
+* ## Bachelor of Computer Science
+  * National University of Computer and Emerging Sciences, Islamabad
+  * CGPA: 3.30/4.00
+  * 2012 - 2016
+
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
   
 Projects
 ======
